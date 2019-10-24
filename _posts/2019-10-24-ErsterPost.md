@@ -1,5 +1,7 @@
 # Blog init
 
+*Hello World!*
+
 This is my first blog post. How do you like it?
 
 ## Motivation to write a blog
@@ -9,4 +11,5 @@ This is my first blog post. How do you like it?
 **Lab** - Simulation of autonomous vehicles.
 
 Thise is an errror!
+
 

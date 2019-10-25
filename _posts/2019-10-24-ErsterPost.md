@@ -10,8 +10,8 @@ My motivation, why I would like to start a Blog. From my point of view, the post
 
 ## Current teaching
 
+### WS2019
+
 **Lab** - Simulation of autonomous vehicles.
 
-Thise is an errror!
-
-
+We want to participate in the [carla challenge](carlachallenge.org). This lab prepares the student for a participation.
